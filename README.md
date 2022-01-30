@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaraAlidadiani
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Genomic Data Science 
+- 🌱 phd student at Rademakers Lab
 - 💞️ I’m looking to collaborate on Bioinformatics projects
-- 📫 How to reach me please contact my email: sarahalidadiany@yahoo.com
+- 📫 How to reach me please contact my email: alidadiani.sara@gmail.com
 
 <!---
 SaraAlidadiani/SaraAlidadiani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
